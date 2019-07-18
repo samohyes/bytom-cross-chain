@@ -2,7 +2,7 @@
 
 Bystack是由比原链团队提出的一主多侧链架构的BaaS平台。其将区块链应用分为三层架构：底层账本层，侧链扩展层，业务适配层。底层账本层为Layer1，即为目前比较成熟的采用POW共识的Bytom公链。侧链扩展层为Layer2，为多侧链层，vapor侧链即处于Layer2。
 
-![img](C:/Users/Xudon/AppData/Local/YNote/data/qqC54FDAFE71043EFC14E8EB26E62C5C10/098180d3f0be4abea911ab980f534f2b/%E6%8D%95%E8%8E%B7.png)
+![img](https://github.com/samohyes/bytom-cross-chain/raw/master/1.PNG)
 
 (图片来自Bystack白皮书)
 
@@ -14,7 +14,7 @@ Vapor侧链采用DPOS和BBFT共识，TPS可以达到数万。此处就分析一�
 
 **主侧链协同工作模型**
 
-![img](C:/Users/Xudon/AppData/Local/YNote/data/qqC54FDAFE71043EFC14E8EB26E62C5C10/6a0bfe5a1689471cb33ec95d78e67615/321e55de6d324d2f8f846a3f090c79ee.jpg)
+![img](https://github.com/samohyes/bytom-cross-chain/raw/master/2.jpg)
 
 **1.技术细节**
 
